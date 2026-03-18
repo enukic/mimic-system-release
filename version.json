@@ -1,0 +1,10 @@
+{
+  "firmware": {
+    "latest_version": "mimic_update_0.5.1.zip",
+    "download_url": "https://github.com/enukic/mimic-system-release/releases/download/fw-0.5.1/mimic_update_0.5.1.zip"
+  },
+  "utility": {
+    "latest_version": "0.0.1",
+    "download_url": "https://github.com/enukic/mimic-system-release/releases/download/sd-v0.0.1/SupplyDrop.exe"
+  }
+}
